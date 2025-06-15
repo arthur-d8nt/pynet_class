@@ -1,2 +1,2 @@
 # pynet_class
-pynet repository
+pynet repository updated readme
